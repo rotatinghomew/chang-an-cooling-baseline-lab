@@ -1,0 +1,26 @@
+[
+  {
+    "id": "M1",
+    "rate_bps": 4400,
+    "humidity_max": 64,
+    "temp_max": 28,
+    "cross_day": true,
+    "price": 90
+  },
+  {
+    "id": "M2",
+    "rate_bps": 3100,
+    "humidity_max": 60,
+    "temp_max": 28,
+    "cross_day": false,
+    "price": 90
+  },
+  {
+    "id": "M3",
+    "rate_bps": 2500,
+    "humidity_max": 67,
+    "temp_max": 29,
+    "cross_day": true,
+    "price": 90
+  }
+]

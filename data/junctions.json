@@ -1,0 +1,58 @@
+[
+  {
+    "id": "J1",
+    "meter": "B1",
+    "venue": "M1",
+    "effective": "2027-04-01T00:00:00",
+    "received": "2027-03-29",
+    "supersedes": null
+  },
+  {
+    "id": "J2",
+    "meter": "B2",
+    "venue": "M2",
+    "effective": "2027-04-01T00:00:00",
+    "received": "2027-03-29",
+    "supersedes": null
+  },
+  {
+    "id": "J3",
+    "meter": "B3",
+    "venue": "M3",
+    "effective": "2027-04-01T00:00:00",
+    "received": "2027-03-29",
+    "supersedes": null
+  },
+  {
+    "id": "J4",
+    "meter": "B1",
+    "venue": "M2",
+    "effective": "2027-06-05T00:00:00",
+    "received": "2027-06-05",
+    "supersedes": null
+  },
+  {
+    "id": "J5",
+    "meter": "B2",
+    "venue": "M1",
+    "effective": "2027-06-05T00:00:00",
+    "received": "2027-06-05",
+    "supersedes": null
+  },
+  {
+    "id": "J6",
+    "meter": "B1",
+    "venue": "M2",
+    "effective": "2027-06-04T23:00:00",
+    "received": "2027-07-14",
+    "supersedes": "J4"
+  },
+  {
+    "id": "J7",
+    "meter": "B2",
+    "venue": "M1",
+    "effective": "2027-06-04T23:00:00",
+    "received": "2027-07-14",
+    "supersedes": "J5"
+  }
+]
